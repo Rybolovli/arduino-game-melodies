@@ -11,3 +11,5 @@ The correct Arduino sketch: Super Mario / Star Wars
 
 ## Теги
 arduino, melody, buzzer, super mario, star wars
+## Фото сборки
+![Схема на Arduino](photo_scheme.jpeg)
